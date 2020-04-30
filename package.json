@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@mongodb-js/charts-embed-dom": "1.0.0-beta.0",
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
